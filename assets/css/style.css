@@ -1,0 +1,53 @@
+html {
+    position: relative;
+    min-height: 100%;
+    }
+
+    body {
+    background-color:#836666;
+    margin-bottom: 60px;
+    }
+
+    #wrap {
+    background-color:#836666;
+    color:#999393;
+    }
+
+    #header {
+    background-color:black;
+    height:70px;
+    }
+
+    #title {
+    color:#fff;
+    text-align:left;
+    padding-top:16px;
+    }
+
+    #buttonArea{
+    margin-top:10px;
+    }
+
+    .btn {
+    margin:3px;
+    }
+
+    #gifArea {
+    margin-top:40%;
+    margin-left:50%;
+    }
+
+    .tealBorder {
+    border-radius: 7px;
+    border: 2px solid teal;
+    }
+    
+    
+    .clear {
+    clear:both;
+    }
+
+  img{
+    margin-top: 10%
+}
+
